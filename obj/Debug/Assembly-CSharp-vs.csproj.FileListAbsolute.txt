@@ -1,0 +1,9 @@
+D:\UnityProjects\SimpleGame\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\SimpleGame\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\SimpleGame\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\SimpleGame\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\SimpleGame\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\SimpleGame\Temp\bin\Debug\nunit.framework.dll
+D:\UnityProjects\SimpleGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\SimpleGame\obj\Debug\Assembly-CSharp.dll
+D:\UnityProjects\SimpleGame\obj\Debug\Assembly-CSharp.pdb
